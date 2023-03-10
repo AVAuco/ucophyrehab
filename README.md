@@ -49,7 +49,7 @@ At the same time, the scene was recorded with an IR motion capture system (OptiT
 projection.
 
 ## Dataset structure
-The raw data and video sequences are stored in the `data`folder. This folder contains the following subfolders and files:
+The raw data and video sequences are stored in the `data` folder. This folder contains the following subfolders and files:
 ```
 .
 +-- dataset_2d.json
@@ -75,7 +75,7 @@ The raw data and video sequences are stored in the `data`folder. This folder con
 |	+-- ...
 |   +-- 27
 ```
-The first level of subfolders corresponds with all the individuals participants in the dataset. Each individual folder contains 16 subfolders, one for each exercise they performed. In each exercise folder, we can find a `camX.avi` and a `camX_p2d.txt` file for each camera and a `p3d.txt` file. The `camX_p2d.txt` contains the joints coordinates 
+The first level of subfolders corresponds with all of the 27 individuals participants in the dataset. Each individual folder contains 16 subfolders, one for each exercise they performed. In each exercise folder, we can find a `camX.avi` and a `camX_p2d.txt` file for each camera and a `p3d.txt` file. The `camX_p2d.txt` contains the joints coordinates 
 ### dataset_2d.json
 ```
 TODO
