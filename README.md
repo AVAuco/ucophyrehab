@@ -14,6 +14,28 @@ Hence, the dataset contains the following cases:
 - Exercises 11 and 15 - Standing in the same place as above, with elbows close to the body, stretch the rubber band with shoulder rotation.
 - Exercises 12 and 16 - Standing in front of the treatment couch, with the other hand resting on the treatment couch, perform a pendulum shoulder rotation.
 
+| ID | Exercise name | Position | Side | Upper / Lower body |
+|--|--|--|--|--|
+| 01 | Bending the knee without support while sitting | Seated | Left | Lower |
+| 02 | Bending the knee with support while sitting | Seated | Left | Lower |
+| 03 | Lift the extended leg | Supine | Left | Lower |
+| 04 | Bending the knee with bed support | Supine | Left | Lower |
+| 05 | Bending the knee without support while sitting | Seated | Right | Lower |
+| 06 | Bending the knee with support while sitting | Seated | Right | Lower |
+| 07 | Lift the extended leg | Supine | Right | Lower |
+| 08 | Bending the knee with bed support | Supine | Right | Lower |
+| 09 | Shoulder flexion | Seated | Left | Upper |
+| 10 | Horizontal weighted openings | Standing | Left | Upper |
+| 11 | External rotation of shoulders with elastic band | Standing | Left | Upper |
+| 12 | Circular pendulum | Standing | Left | Upper |
+| 13 | Shoulder flexion | Seated | Right | Upper |
+| 14 | Horizontal weighted openings | Standing | Right | Upper |
+| 15 | External rotation of shoulders with elastic band | Standing | Right | Upper |
+| 16 | Circular pendulum | Standing | Right | Upper |
+
+> Table 1 - List of exercises included in the UCO Physical Rehabilitation dataset. They are classified by
+position, side and upper/lower body.
+
 Overall, 2160 video sequences, with an average duration of 30.4 seconds (about 1.6M frames in total), were recorded with 5 RGB camera of 1280×720 pixel resolution. Each camera has recorded a different point of view of the scene.
 The cameras were placed in 3 different angles and 3 different heights. The Figure 2 shows the camera set up. Cameras 0, 1 and 2 have the same horizontal angle with respect to the scene, but each one is placed at a different height. Camera 0 is situated 15 cm above the ground and camera 1 at 180 cm. The rest of the cameras were placed 100 cm above the ground.
 At the same time, the scene was recorded with an IR motion capture system (OptiTrack) with 6 cameras placed in an elevated position, as we can see in the Figure 2. Subjects were fitted with infrared sensors on the shoulder, elbow and wrist for upper body exercises and on the hip, knee and ankle for the lower body exercises. These IR sensors provide the 3D ground-truth points for each record on the dataset. Subsequently, we obtain the 2D ground-truth points from these 3D ground-truth points by
