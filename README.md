@@ -1,5 +1,6 @@
 # UCO Physical Rehabilitation dataset
 The proposed dataset, coined “UCO Physical Rehabilitation”, has been recorded from June to July 2022. A total of 27 subjects (7 females and 20 males), in a range of age from 23 to 60 years, were recorded indoors in a controlled environment.
+
 Subjects were instructed to perform four exercises for the lower-body and four exercises for the upper-body in both sides (left and right), obtaining a total of 16 different activities (see Figure 1). Each activity consists of four repetitions of the same exercise at a low speed to simulate a recent surgery or injury. These exercises are summarized in Table 1, classified by position, lower or upper body and side or orientation of the subject.
 Hence, the dataset contains the following cases:
 - Exercises 01 and 05 - Starting in a seated position, raise the leg as high as possible.
@@ -43,7 +44,18 @@ The raw data and video sequences are stored in the `data`folder. This folder con
 |	+-- ...
 |   +-- 27
 ```
-
+The first level of subfolders corresponds with all the individuals participants in the dataset. Each individual folder contains 16 subfolders, one for each exercise they performed. In each exercise folder, we can find a `camX.avi` and a `camX_p2d.txt` file for each camera and a `p3d.txt` file. The `camX_p2d.txt` contains the joints coordinates 
 ### dataset_2d.json
+```
+TODO
+```
 
 ### dataset_3d.json
+```
+TODO
+```
+
+# Citation
+```
+BibTeX reference comming soon!
+```
