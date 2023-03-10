@@ -40,6 +40,11 @@ position, side and upper/lower body.
 
 Overall, 2160 video sequences, with an average duration of 30.4 seconds (about 1.6M frames in total), were recorded with 5 RGB camera of 1280×720 pixel resolution. Each camera has recorded a different point of view of the scene.
 The cameras were placed in 3 different angles and 3 different heights. The Figure 2 shows the camera set up. Cameras 0, 1 and 2 have the same horizontal angle with respect to the scene, but each one is placed at a different height. Camera 0 is situated 15 cm above the ground and camera 1 at 180 cm. The rest of the cameras were placed 100 cm above the ground.
+
+![Plan of the cameras in the laboratory. The scheme shows both the location of the OptiTrack motion capture system (solid blue lines) and the RGB cameras (solid red lines).](https://raw.githubusercontent.com/AVAuco/ucophyrehab/main/img/plano_lab_v2_3d.png)
+
+> Figure 2 - Plan of the cameras in the laboratory. The scheme shows both the location of the OptiTrack motion capture system (solid blue lines) and the RGB cameras (solid red lines).
+
 At the same time, the scene was recorded with an IR motion capture system (OptiTrack) with 6 cameras placed in an elevated position, as we can see in the Figure 2. Subjects were fitted with infrared sensors on the shoulder, elbow and wrist for upper body exercises and on the hip, knee and ankle for the lower body exercises. These IR sensors provide the 3D ground-truth points for each record on the dataset. Subsequently, we obtain the 2D ground-truth points from these 3D ground-truth points by
 projection.
 
