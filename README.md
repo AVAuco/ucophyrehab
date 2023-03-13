@@ -90,3 +90,6 @@ TODO
 ```
 BibTeX reference comming soon!
 ```
+
+# Download
+If you want to download this dataset, please write an email to the following address: [inforeha@uco.es](mailto:inforeha@uco.es) with your name, affiliation and research purposes.
