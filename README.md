@@ -1,5 +1,5 @@
 # UCO Physical Rehabilitation dataset
-The proposed dataset, coined “UCO Physical Rehabilitation”, has been recorded from June to July 2022. A total of 27 subjects (7 females and 20 males), in a range of age from 23 to 60 years, were recorded indoors in a controlled environment.
+The proposed dataset, coined “UCO Physical Rehabilitation”, has been recorded from June to July 2022. A total of 27 subjects (7 females and 20 males), in a range of age from 23 to 60 years, were recorded indoors in a controlled environment in the [AVA group](https://www.uco.es/investiga/grupos/ava/) at the University of Cordoba.
 
 ![Examples of some of the exercises included in the dataset: (a) Exercise 01, (b) Exercise 02, (c) Exercise 03, (d) Exercise 04, (e) Exercise 13, (f) Exercise 14, (g) Exercise 15, (h) Exercise 16. All views from the camera 2 viewpoint.](https://raw.githubusercontent.com/AVAuco/ucophyrehab/b956be91c52c689580fd245ccf56506b76d797b7/img/dataset_web_pixel.png)
 
