@@ -77,14 +77,15 @@ The raw data and video sequences are stored in the `data` folder. This folder co
 ```
 The first level of subfolders corresponds with all of the 27 individuals participants in the dataset. Each individual folder contains 16 subfolders, one for each exercise they performed. In each exercise folder, we can find a `camX.avi` and a `camX_p2d.txt` file for each camera and a `p3d.txt` file. The `camX_p2d.txt` contains the joints coordinates 
 ### dataset_2d.json
-```
-TODO
-```
+In Figure 3 you can see the structure of the dataset JSON for 2D. This is the first individual (folder), the first camera and the first frame of the record.
+![Structure of the dataset JSON for 2D](https://raw.githubusercontent.com/AVAuco/ucophyrehab/main/img/ucophyrehab_2d.png)
+> Figure 3 - Structure of the dataset JSON for 2D.
+
 
 ### dataset_3d.json
-```
-TODO
-```
+In Figure 4 you can see the structure of the dataset JSON for 3D. This is the first individual (folder) and the first frame of the record.
+![Structure of the dataset JSON for 3D](https://raw.githubusercontent.com/AVAuco/ucophyrehab/main/img/ucophyrehab_3d.png)
+> Figure 4 - Structure of the dataset JSON for 3D.
 
 # Citation
 ```
