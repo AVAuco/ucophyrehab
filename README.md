@@ -89,7 +89,7 @@ In Figure 4 you can see the structure of the dataset JSON for 3D. This is the fi
 
 # Citation
 ```
-@Article{s23218862,
+@Article{aguilar_2023,
   AUTHOR = {Aguilar-Ortega, Rafael and Berral-Soler, Rafael and Jiménez-Velasco, Isabel and Romero-Ramírez, Francisco J. and García-Marín, Manuel and Zafra-Palma, Jorge and Muñoz-Salinas, Rafael and Medina-Carnicer, Rafael and Marín-Jiménez, Manuel J.},
   TITLE = {UCO Physical Rehabilitation: New Dataset and Study of Human Pose Estimation Methods on Physical Rehabilitation Exercises},
   JOURNAL = {Sensors},
@@ -106,3 +106,5 @@ In Figure 4 you can see the structure of the dataset JSON for 3D. This is the fi
 
 # Download
 If you want to download this dataset, please write an email to the following address: [inforeha@uco.es](mailto:inforeha@uco.es) with your name, affiliation and research purposes.
+
+Website: https://www.uco.es/investiga/grupos/ava/portfolio/ucophyrehab/
