@@ -107,3 +107,5 @@ In Figure 4 you can see the structure of the dataset JSON for 3D. This is the fi
 If you want to download this dataset, please write an email to the following address: [inforeha@uco.es](mailto:inforeha@uco.es) with your name, affiliation and research purposes.
 
 Website: https://www.uco.es/investiga/grupos/ava/portfolio/ucophyrehab/
+
+Paper: https://www.mdpi.com/2542956
