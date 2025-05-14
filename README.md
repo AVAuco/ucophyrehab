@@ -1,5 +1,5 @@
 # UCO Physical Rehabilitation dataset
-<p><a href="https://www.mdpi.com/1424-8220/23/21/8862"><img src="https://img.shields.io/badge/READ-the_paper-blue"></a> &nbsp; <img src="https://img.shields.io/twitter/follow/ucoava">
+<p><a href="https://www.mdpi.com/1424-8220/23/21/8862" target="_blank"><img src="https://img.shields.io/badge/READ-the_paper-blue"></a> &nbsp; <a href="https://x.com/ucoava" target="_blank"><img src="https://img.shields.io/twitter/follow/ucoava"></a>
 </p>
 
 
